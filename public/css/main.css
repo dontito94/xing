@@ -1,0 +1,11 @@
+     .row{
+	background-color: red;
+    padding-top: 20px;
+      }
+     body {
+            font-family: 'Lato';
+        }
+
+        .fa-btn {
+            margin-right: 6px;
+        }
