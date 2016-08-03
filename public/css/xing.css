@@ -1,0 +1,59 @@
+.container-fluid{
+	 background-image: url("http://image.dhgate.com/aktdesc_1005007122_00.jpg");
+	 height: 55em;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+}
+div>.container{
+		height: 40em;
+	width: 25%;
+	border-radius: 5px;
+	background-color: #306754;
+	float:left;
+	color: #ffffff;
+	margin :0em 0em 0em 6em;
+}
+a{
+	color: #ffffff;
+	text-decoration:none;
+}
+
+.container-fluid p {
+  font-size: 20px;
+  color: #fff;
+  margin-left:30em;
+}
+.container-fluid h2 {
+  color: #ffffff;
+  font-size: 35px;  
+  padding-top: 13em;
+  margin-left: 17em;
+}
+.form-control{
+	width: 75%;
+}
+.panel-footer a{
+color: #306754;
+}
+h1{
+	font-size: 4em;
+	color:#306754;
+	 font-weight: bold;
+	font-family: 'Shift', sans-serif;
+}
+.panel{
+margin-bottom: 10em;
+}
+h6{
+	font-size: 2em;
+}
+.col-md-4{
+	margin-bottom: 3em;
+	padding-right: 8em;
+}
+
+#signup{
+	background-color: #fdd017;
+}
